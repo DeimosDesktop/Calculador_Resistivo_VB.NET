@@ -1,0 +1,22 @@
+c:\users\pascu\documents\visual studio 2013\Projects\Calculador de Resistencias 2017\Calculador de Resistencias 2017\bin\Debug\Calculador de Resistencias 2017.exe.config
+c:\users\pascu\documents\visual studio 2013\Projects\Calculador de Resistencias 2017\Calculador de Resistencias 2017\bin\Debug\Calculador de Resistencias 2017.exe
+c:\users\pascu\documents\visual studio 2013\Projects\Calculador de Resistencias 2017\Calculador de Resistencias 2017\bin\Debug\Calculador de Resistencias 2017.pdb
+c:\users\pascu\documents\visual studio 2013\Projects\Calculador de Resistencias 2017\Calculador de Resistencias 2017\bin\Debug\Calculador de Resistencias 2017.xml
+c:\users\pascu\documents\visual studio 2013\Projects\Calculador de Resistencias 2017\Calculador de Resistencias 2017\obj\Debug\Calculador_de_Resistencias_2017.Form1.resources
+c:\users\pascu\documents\visual studio 2013\Projects\Calculador de Resistencias 2017\Calculador de Resistencias 2017\obj\Debug\Calculador_de_Resistencias_2017.Resources.resources
+c:\users\pascu\documents\visual studio 2013\Projects\Calculador de Resistencias 2017\Calculador de Resistencias 2017\obj\Debug\Calculador de Resistencias 2017.vbproj.GenerateResource.Cache
+c:\users\pascu\documents\visual studio 2013\Projects\Calculador de Resistencias 2017\Calculador de Resistencias 2017\obj\Debug\Calculador de Resistencias 2017.exe
+c:\users\pascu\documents\visual studio 2013\Projects\Calculador de Resistencias 2017\Calculador de Resistencias 2017\obj\Debug\Calculador de Resistencias 2017.xml
+c:\users\pascu\documents\visual studio 2013\Projects\Calculador de Resistencias 2017\Calculador de Resistencias 2017\obj\Debug\Calculador de Resistencias 2017.pdb
+C:\Users\pascu\documents\visual studio 2013\Projects\Calculador de Resistencias 2017\Calculador de Resistencias 2017\obj\Debug\Calculador de Resistencias 2017.vbprojResolveAssemblyReference.cache
+C:\Users\pascu\Documents\Visual Studio 2012\Projects\Calculador de Resistencias 2017\Calculador de Resistencias 2017\bin\Debug\Calculador de Resistencias 2017.exe.config
+C:\Users\pascu\Documents\Visual Studio 2012\Projects\Calculador de Resistencias 2017\Calculador de Resistencias 2017\obj\Debug\Calculador de Resistencias 2017.exe
+C:\Users\pascu\Documents\Visual Studio 2012\Projects\Calculador de Resistencias 2017\Calculador de Resistencias 2017\obj\Debug\Calculador de Resistencias 2017.xml
+C:\Users\pascu\Documents\Visual Studio 2012\Projects\Calculador de Resistencias 2017\Calculador de Resistencias 2017\obj\Debug\Calculador de Resistencias 2017.pdb
+C:\Users\pascu\Documents\Visual Studio 2012\Projects\Calculador de Resistencias 2017\Calculador de Resistencias 2017\bin\Debug\Calculador de Resistencias 2017.exe
+C:\Users\pascu\Documents\Visual Studio 2012\Projects\Calculador de Resistencias 2017\Calculador de Resistencias 2017\bin\Debug\Calculador de Resistencias 2017.pdb
+C:\Users\pascu\Documents\Visual Studio 2012\Projects\Calculador de Resistencias 2017\Calculador de Resistencias 2017\bin\Debug\Calculador de Resistencias 2017.xml
+C:\Users\pascu\Documents\Visual Studio 2012\Projects\Calculador de Resistencias 2017\Calculador de Resistencias 2017\obj\Debug\Calculador de Resistencias 2017.vbprojResolveAssemblyReference.cache
+C:\Users\pascu\Documents\Visual Studio 2012\Projects\Calculador de Resistencias 2017\Calculador de Resistencias 2017\obj\Debug\Calculador_de_Resistencias_2017.Form1.resources
+C:\Users\pascu\Documents\Visual Studio 2012\Projects\Calculador de Resistencias 2017\Calculador de Resistencias 2017\obj\Debug\Calculador_de_Resistencias_2017.Resources.resources
+C:\Users\pascu\Documents\Visual Studio 2012\Projects\Calculador de Resistencias 2017\Calculador de Resistencias 2017\obj\Debug\Calculador de Resistencias 2017.vbproj.GenerateResource.Cache
